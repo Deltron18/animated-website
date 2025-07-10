@@ -43,6 +43,7 @@ const About = () => {
             Deltaflow is a platform that connects you with the world's largest shared adventure.  
           </p>
         </div>
+        
       </div>
 
       <div className="h-dvh w-screen" id="clip">
